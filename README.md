@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub - Tommy Edit
+# :wave: The Basics of GitHub - Tommy Edit2
 
 ## 🤓 Course overview and learning outcomes 
 
